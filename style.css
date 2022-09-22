@@ -1,0 +1,177 @@
+
+body{
+    margin: 0;
+    background-color: #e5e5e5;
+}
+h1,h2,h3{
+    
+    font-family: 'Bebas Neue',cursive;
+}
+.first-sec{
+    height: 600px;
+    display: flex;
+    padding-left: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.half-width{
+
+    width: 50%;
+    height: 600px;
+}
+.half-width img{
+ 
+    width: 75%;
+}
+.text{
+    margin-top: 200px;
+}
+.first-sec-hireme{
+
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 35px;
+    border-radius: 30px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 3px;
+}
+.second-sec{
+
+    height: 600px;
+    display: flex;
+    padding-left: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+
+}
+.second-sec-hireme{
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 36px;
+    border-radius: 30px;
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 4px;
+}
+.second-sec-text{
+    margin-top: 180px;
+}
+.third-sec{
+
+    height: 600px;
+    
+
+}
+.three-div-mother{
+    height: 480px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 85%;
+    margin: auto;
+}
+.one-third-width{
+   background-color: #ffffff;
+   width: 300px;
+   height: 370px;
+   display: flex;
+   flex-direction: column;
+   padding: 25px;
+   border-radius: 20px;
+   box-shadow: 0px 0px 30px rgba(128, 128, 128, 0.281);
+   
+   
+}
+.pic{
+    /* border: 1px solid black; */
+    width: 100%;
+    height: 50%;
+}
+.pic img{
+    width: 100%;
+    height: 100%;
+}
+
+.text2{
+    /* border: 1px solid black; */
+    width: 100%;
+    height: 50%;
+    
+}
+.fourth-sec{
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+.blue-back{
+    background-image: linear-gradient(135deg,#595fe1, #4329b8);
+    border-radius: 30px;
+    height: 40%;
+    width: 65%; 
+    margin-top: 20px;
+    display: flex;
+    margin-bottom: 50px;
+
+}
+.Lets-chat{
+    color: white;
+    letter-spacing: 3px;
+    border-radius: 35px;
+    padding: 12px 43px;
+    background-image: linear-gradient(135deg,orange, tomato);
+    text-decoration: none;
+}
+.last-text{
+    letter-spacing: 4px;
+    
+}
+.form-sec{
+    height: 540px;
+}
+.form-cont{
+   
+    background-color: #ffffff;
+    width: 70%;
+    height: 500px;
+    margin: auto;
+    margin-top: 80px;
+    
+}
+form input,textarea{
+    display: block;
+    height: 30px;
+    width: 90%;
+    margin: auto;
+}
+footer{
+    color: white;
+    height: 70px;
+    background-image: linear-gradient(135deg,rgba(11, 11, 92, 0.945),rgba(35, 30, 54, 0.555));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -38px;
+}
+button{
+    color: white;
+    background-image: linear-gradient(135deg,rgba(0, 0, 255, 0.753), cyan);
+    border-radius: 40px;
+    height: 40px;
+    width: 130px;
+    letter-spacing: 3px;
+    margin: auto;
+    margin-top: 18px;
+    border: none;
+    display: block; 
+    
+}
